@@ -1,11 +1,12 @@
-# COSMOCINEMA
-Backend : 
-cd backend 
-nodemon server.js 
-Frontend
-cd FE 
-yarn install 
-yarn start
 <div id="header">
-  <img src="https://res.cloudinary.com/thientam2829/image/upload/v1709083061/hl7eyjomgkfcz9muyoly.png" width="100%" margin-right: 10px />
+  <strong>BackEnd</strong><br>
+  <code>cd backend</code><br>
+  <code>nodemon server.js</code><br>
+  <strong>FrontEnd</strong><br>
+   <code>cd FE</code><br>
+  <code>yarn install</code><br>
+  <code>yarn start</code><br>
+</div>
+<div id="footerr">
+  <img src="https://res.cloudinary.com/thientam2829/image/upload/v1712053558/kvohfbwdwyar97cbs9ul.png" width="100%" margin-right: 10px />
 </div>
