@@ -1,10 +1,4 @@
-<<<<<<< HEAD
-TỴT DỌNG =)
-<div id="header">
-  <img src="https://res.cloudinary.com/thientam2829/image/upload/v1712053558/kvohfbwdwyar97cbs9ul.png" width="100%" margin-right: 10px />
-</div>
 
-=======
 <div id="header">
   <strong>BackEnd</strong><br>
   <code>cd backend</code><br>
@@ -17,4 +11,3 @@ TỴT DỌNG =)
 <div id="footerr">
   <img src="https://res.cloudinary.com/thientam2829/image/upload/v1709083061/hl7eyjomgkfcz9muyoly.png" width="50%" margin-right: 10px />
 </div>
->>>>>>> d8cbef77596232688fe0accf851c1f43a692f8da
